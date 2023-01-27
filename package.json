@@ -37,6 +37,6 @@
        "deploy": "gh-pages -d build",
         "start": "react-scripts start",
         "build": "react-scripts build",
-        "homepage": "https://helypatel26.github.io/Planner.github.io/"
+        "homepage": "https://helypatel26.github.io/Planner/"
  }
 }
